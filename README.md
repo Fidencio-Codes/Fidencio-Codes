@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fidencio</h1>
-<h3 align="center">Python developer. Recent graduate from Nucamp's program: Back End, SQL and DevOps with Python. Interested in cloud and backend technologies.</h3>
+<h3 align="center">Python developer. Interested in cloud and backend technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fidencio-codes&label=Profile%20views&color=0e75b6&style=flat" alt="fidencio-codes" /> </p>
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Fidencio_Codes@fidencioguerra.tech**
 
-- ⚡ Fun fact **I have dreamt of the terminal a few times in the last months and it cracks me up**
+- ⚡ Fun fact **I have dreamt of the terminal a few times and it cracks me up**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
