@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fidencio-codes&label=Profile%20views&color=0e75b6&style=flat" alt="fidencio-codes" /> </p>
 
-- 🌱 I’m currently learning **Django, Unit and Integration testing, Linux.**
+- 🌱 I’m currently learning: **Django, Unit and Integration testing, Linux.**
 
-- 💬 Ask me about **Django, Azure**
+- 💬 Ask me about: **Django, Azure**
 
-- 📫 How to reach me **Fidencio_Codes@fidencioguerra.tech**
+- 📫 How to reach me: **Fidencio_Codes@fidencioguerra.tech**
 
-- ⚡ Fun fact **I have dreamt of the terminal a few times in the last months and it cracks me up**
+- ⚡ Fun fact: **I have dreamt of the terminal a few times and it cracks me up**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
