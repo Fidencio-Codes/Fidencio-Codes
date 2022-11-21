@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning: **Django, Unit and Integration testing, Linux.**
 
-- 💬 Ask me about: **Pytest, Azure Kubernetes Service**
-
 - 📫 How to reach me: **Fidencio_Codes@fidencioguerra.tech**
 
 - ⚡ Fun fact: **I have dreamt of the terminal a few times and it cracks me up**
