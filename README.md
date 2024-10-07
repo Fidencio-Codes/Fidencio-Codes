@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **Django, Unit and Integration testing, Linux.**
 
-- 📫 How to reach me: **Fidencio_Codes@fidencioguerra.tech**
+- 📫 How to reach me: **Fidencioguerra.28@gmail.com**
 
 - ⚡ Fun fact: **I have dreamt of the terminal a few times and it cracks me up**
 
